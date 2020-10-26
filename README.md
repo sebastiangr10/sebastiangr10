@@ -1,7 +1,5 @@
 ### Hi i am sebas🤘 :metal:
 ### sebastián
-###-preparación básica academia geek
-###-fundamentos de android
 <!--
 **sebastiangr10/sebastiangr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
